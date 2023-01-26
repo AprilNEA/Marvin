@@ -1,0 +1,30 @@
+client:
+  api_id:
+  api_hash:
+session:
+  name:
+storage:
+  kv:
+    url:
+    token:
+      read:
+      write:
+      delete: 5
+listen:
+  message:
+    all:
+      user:
+      group:
+      channel:
+    new:
+      user:
+      group:
+      channel:
+    edit:
+      user:
+      group:
+      channel:
+    delete:
+      user:
+      group:
+      channel:
